@@ -1,0 +1,10 @@
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\bin\Debug\Практика 4.2.exe.config
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\bin\Debug\Практика 4.2.exe
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\bin\Debug\Практика 4.2.pdb
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\obj\Debug\Практика 4.2.csprojAssemblyReference.cache
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\obj\Debug\Практика_4._2.Form1.resources
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\obj\Debug\Практика_4._2.Form2.resources
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\obj\Debug\Практика_4._2.Properties.Resources.resources
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\obj\Debug\Практика 4.2.csproj.GenerateResource.cache
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\obj\Debug\Практика 4.2.exe
+C:\Users\maksi\Documents\10.4 ТПП\Практика 4.2\Практика 4.2\obj\Debug\Практика 4.2.pdb

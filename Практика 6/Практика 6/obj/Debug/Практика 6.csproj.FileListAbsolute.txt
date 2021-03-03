@@ -1,0 +1,6 @@
+C:\Users\maksi\Documents\10.4 ТПП\Практика 6\Практика 6\obj\Debug\Практика 6.csprojAssemblyReference.cache
+C:\Users\maksi\Documents\10.4 ТПП\Практика 6\Практика 6\bin\Debug\Практика 6.exe.config
+C:\Users\maksi\Documents\10.4 ТПП\Практика 6\Практика 6\bin\Debug\Практика 6.exe
+C:\Users\maksi\Documents\10.4 ТПП\Практика 6\Практика 6\bin\Debug\Практика 6.pdb
+C:\Users\maksi\Documents\10.4 ТПП\Практика 6\Практика 6\obj\Debug\Практика 6.exe
+C:\Users\maksi\Documents\10.4 ТПП\Практика 6\Практика 6\obj\Debug\Практика 6.pdb

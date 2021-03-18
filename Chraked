@@ -1,0 +1,26 @@
+        private void button1_Click(object sender, EventArgs e)
+        {
+            StreamWriter txt = new StreamWriter(@"1",false, Encoding.Unicode);
+            txt.Write("{0}!{1}",MyFigure.R, MyFigure.color);
+            for(int i = 0; i < a.Count; i++)
+            {
+                txt.Write("!{0}!{1}", a[i].X, a[i].Y);
+            }
+            txt.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            StreamReader reader = new StreamReader(@"1");
+            string[] copy = reader.ReadToEnd().Split('!');
+            reader.Close();
+            //File.OpenRead(@"1");
+            MyFigure.R = int.Parse(copy[0]);
+            MyFigure.color = Color.FromName(copy[1].Remove(0, 7).Remove(copy[1].Length - 8, 1));
+            a.Clear();
+            for (int i = 0; i < copy.Length - 2; i += 2)
+            {
+                a.Add(new Circle(int.Parse(copy[2+i]), int.Parse(copy[i + 3])));
+            }
+            Refresh();
+        }

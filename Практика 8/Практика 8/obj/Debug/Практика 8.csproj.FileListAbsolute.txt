@@ -1,0 +1,10 @@
+C:\Users\maksi\source\repos\Практика 8\Практика 8\bin\Debug\Практика 8.exe.config
+C:\Users\maksi\source\repos\Практика 8\Практика 8\bin\Debug\Практика 8.exe
+C:\Users\maksi\source\repos\Практика 8\Практика 8\bin\Debug\Практика 8.pdb
+C:\Users\maksi\source\repos\Практика 8\Практика 8\obj\Debug\Практика 8.csprojAssemblyReference.cache
+C:\Users\maksi\source\repos\Практика 8\Практика 8\obj\Debug\Практика_8.Form1.resources
+C:\Users\maksi\source\repos\Практика 8\Практика 8\obj\Debug\Практика_8.Properties.Resources.resources
+C:\Users\maksi\source\repos\Практика 8\Практика 8\obj\Debug\Практика_8.Ввод.resources
+C:\Users\maksi\source\repos\Практика 8\Практика 8\obj\Debug\Практика 8.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Практика 8\Практика 8\obj\Debug\Практика 8.exe
+C:\Users\maksi\source\repos\Практика 8\Практика 8\obj\Debug\Практика 8.pdb

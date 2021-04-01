@@ -1,0 +1,11 @@
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Практика_7.csprojAssemblyReference.cache
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Минизадача_1.Form1.resources
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Минизадача_1.Form2.resources
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Минизадача_1.RadiusChanger.resources
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Практика_7.csproj.GenerateResource.cache
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Минизадача_1.Properties.Resources.resources
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\bin\Debug\Минизадача_1.exe.config
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\bin\Debug\Минизадача_1.exe
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\bin\Debug\Минизадача_1.pdb
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Минизадача_1.exe
+C:\Users\maksi\Documents\GitHub\10.4_Safonov_Maxim\Минизадача_7\Минизадача_1\obj\Debug\Минизадача_1.pdb
